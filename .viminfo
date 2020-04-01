@@ -1,0 +1,364 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~Msle0~/\<し\>
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+|2,0,1585739388,,"wq"
+:qw
+|2,0,1585733595,,"qw"
+:q
+|2,0,1585692952,,"q"
+:.,.+1!
+|2,0,1584978652,,".,.+1!"
+:.!
+|2,0,1584978649,,".!"
+:q!
+|2,0,1584786181,,"q!"
+:w
+|2,0,1584717310,,"w"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+? \<し\>
+|2,1,1584978657,,"\\<し\\>"
+? 、
+|2,1,1584978654,,"、"
+?/2.6
+|2,1,1584978039,47,"2.6"
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"1	LINE	0
+	
+|3,0,1,1,1,0,1584978283,""
+"2	LINE	0
+	     b) スミレは青い、
+|3,0,2,1,1,0,1584978278,"     b) スミレは青い、"
+"3	LINE	0
+	     c) 知恵とは学ぶもの、
+|3,0,3,1,1,0,1584978274,"     c) 知恵とは学ぶもの、"
+"4	LINE	0
+	     a) バラは赤い、
+|3,0,4,1,1,0,1584978270,"     a) バラは赤い、"
+"5	LINE	0
+	     a) バラは赤い、
+|3,0,5,1,1,0,1584978262,"     a) バラは赤い、"
+"6	LINE	0
+	--->  4)  私は車をもっている、
+	--->  5)  時計が時刻を告げる、
+|3,0,6,1,2,0,1584978047,"--->  4)  私は車をもっている、","--->  5)  時計が時刻を告げる、"
+"7	LINE	0
+	--->  2)  つまらないものは楽しい、
+|3,0,7,1,1,0,1584978024,"--->  2)  つまらないものは楽しい、"
+""-	CHAR	0
+	な
+|3,1,36,0,1,0,1585739380,"な"
+
+# ファイルマーク:
+'0  5  0  ~/workspace/git-study/git-study/wise.md
+|4,48,5,0,1585739388,"~/workspace/git-study/git-study/wise.md"
+'1  5  36  ~/workspace/git-study/git-study/wise.md
+|4,49,5,36,1585733843,"~/workspace/git-study/git-study/wise.md"
+'2  5  39  ~/workspace/git-study/git-study/wise.md
+|4,50,5,39,1585733597,"~/workspace/git-study/git-study/wise.md"
+'3  5  39  ~/workspace/git-study/git-study/wise.md
+|4,51,5,39,1585733597,"~/workspace/git-study/git-study/wise.md"
+'4  6  0  ~/workspace/git-study/git-study/wise.md
+|4,52,6,0,1585733060,"~/workspace/git-study/git-study/wise.md"
+'5  6  0  ~/workspace/git-study/git-study/wise.md
+|4,53,6,0,1585733060,"~/workspace/git-study/git-study/wise.md"
+'6  6  0  ~/workspace/git-study/git-study/wise.md
+|4,54,6,0,1585733060,"~/workspace/git-study/git-study/wise.md"
+'7  6  0  ~/workspace/git-study/git-study/wise.md
+|4,55,6,0,1585733060,"~/workspace/git-study/git-study/wise.md"
+'8  5  3  ~/workspace/git-study/git-study/wise.md
+|4,56,5,3,1585732201,"~/workspace/git-study/git-study/wise.md"
+'9  5  3  ~/workspace/git-study/git-study/wise.md
+|4,57,5,3,1585732201,"~/workspace/git-study/git-study/wise.md"
+
+# ジャンプリスト (新しいものが先):
+-'  5  0  ~/workspace/git-study/git-study/wise.md
+|4,39,5,0,1585739388,"~/workspace/git-study/git-study/wise.md"
+-'  5  36  ~/workspace/git-study/git-study/wise.md
+|4,39,5,36,1585733843,"~/workspace/git-study/git-study/wise.md"
+-'  5  39  ~/workspace/git-study/git-study/wise.md
+|4,39,5,39,1585733597,"~/workspace/git-study/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/git-study/wise.md
+|4,39,1,0,1585733571,"~/workspace/git-study/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/git-study/wise.md
+|4,39,1,0,1585733571,"~/workspace/git-study/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/git-study/wise.md
+|4,39,1,0,1585733571,"~/workspace/git-study/git-study/wise.md"
+-'  6  0  ~/workspace/git-study/git-study/wise.md
+|4,39,6,0,1585733060,"~/workspace/git-study/git-study/wise.md"
+-'  6  0  ~/workspace/git-study/git-study/wise.md
+|4,39,6,0,1585733060,"~/workspace/git-study/git-study/wise.md"
+-'  6  0  ~/workspace/git-study/git-study/wise.md
+|4,39,6,0,1585733060,"~/workspace/git-study/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/git-study/wise.md
+|4,39,1,0,1585732915,"~/workspace/git-study/git-study/wise.md"
+-'  5  3  ~/workspace/git-study/git-study/wise.md
+|4,39,5,3,1585732201,"~/workspace/git-study/git-study/wise.md"
+-'  5  3  ~/workspace/git-study/git-study/wise.md
+|4,39,5,3,1585732201,"~/workspace/git-study/git-study/wise.md"
+-'  5  33  ~/workspace/git-study/git-study/wise.md
+|4,39,5,33,1585732114,"~/workspace/git-study/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/git-study/wise.md
+|4,39,1,0,1585730904,"~/workspace/git-study/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/git-study/wise.md
+|4,39,1,0,1585730904,"~/workspace/git-study/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  1  0  ~/workspace/git-study/git-study/index.html
+|4,39,1,0,1585692952,"~/workspace/git-study/git-study/index.html"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+-'  23  1  /tmp/crontab.cz9Tow/crontab
+|4,39,23,1,1585626162,"/tmp/crontab.cz9Tow/crontab"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/workspace/git-study/git-study/wise.md
+	*	1585739381	0
+	"	5	0
+	^	5	39
+	.	6	33
+	+	5	3
+	+	5	0
+	+	7	0
+	+	6	3
+	+	8	0
+	+	9	0
+	+	6	33
+
+> ~/workspace/git-study/git-study/index.html
+	*	1585692944	0
+	"	1	0
+
+> /tmp/crontab.cz9Tow/crontab
+	*	1585626161	0
+	"	23	1
+	^	23	2
+	.	23	1
+	+	23	1
+
+> /tmp/tutornQHNzo
+	*	1584978657	0
+	"	422	20
+	.	386	0
+	+	316	0
+	+	317	0
+	+	386	0
+	+	385	0
+	+	383	0
+	+	386	0
+	+	385	0
+	+	386	0
+
+> /tmp/tutor4h0NXj
+	*	1584977861	0
+	"	216	56
+	^	216	59
+	.	134	56
+	+	83	59
+	+	108	62
+	+	106	62
+	+	132	0
+	+	131	56
+	+	134	56
+
+> /tmp/tutorZkd6dc
+	*	1584786177	0
+	"	89	0
+	^	90	0
+	.	50	4
+	+	111	17
+	+	115	13
+	+	151	14
+	+	50	4
+
+> ~/workspace/vim-study/test.txt
+	*	1584717355	0
+	"	1	0
+
+> ~/.profile
+	*	1584711563	0
+	"	1	0
